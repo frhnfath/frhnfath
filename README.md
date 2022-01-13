@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/frhnfath_/
+[2]: https://www.linkedin.com/in/frhnfath/

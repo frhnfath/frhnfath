@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Farhan Fathurrahman, and currently I'm a 3rd-Year Computer Science student at IPB University. 
+I'm Farhan Fathurrahman, and currently I'm a Final Year Computer Science student at IPB University. 
 
 I'm interested in Mobile Development, Backend Development and Artificial Intelligence. You can find me on LinkedIn [![LinkedIn][2.2]][2].
 
